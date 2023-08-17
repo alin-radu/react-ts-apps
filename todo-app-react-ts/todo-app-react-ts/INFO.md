@@ -10,9 +10,8 @@
 
 ### II. GITHUB
 
-- git@github.com:alin-radu/todo-app-react-ts.git
+- git@github.com:alin-radu/react-ts-apps.git
 
 ### III. APP
 
 - ...
-

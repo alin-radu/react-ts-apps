@@ -10,7 +10,7 @@
 
 ### II. GITHUB
 
-- git@github.com:alin-radu/shopping-cart-app-react-ts-2.git
+- git@github.com:alin-radu/react-ts-apps.git
 
 ### III. APP
 
